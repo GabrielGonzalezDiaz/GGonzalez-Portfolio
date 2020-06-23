@@ -7,3 +7,18 @@
 #greeting-container {
   margin-top: 20px;
 }
+
+
+.github{
+    width:50%;
+    margin-right:2%;
+    float: left;
+}
+
+.linkedin {
+    width:50;
+    float: left;
+}
+.clearfix{
+    clear:both
+}
